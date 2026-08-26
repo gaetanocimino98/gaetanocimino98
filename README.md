@@ -1,11 +1,10 @@
 ### Hello, I'm Gaetano Cimino! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm a Ph.D. Student @ University of Salerno in the Internet of Things and Smart Technologies curriculum
+#### I'm an Assistant Professor of Computer Science at the University of Salerno.
 
 #### 👨🏻‍💻 About Me
 - 📭 Nocera Superiore, Salerno, Campania, Italy
 - 🎓 Computer Science @ University of Salerno
-- 🌱 I'm currently learning Natural Language Processing and Explainable Artificial Intelligence
 - 🔭 I'm working on several scientific papers 
 - ⚡ Fun facts: I love football 
 
